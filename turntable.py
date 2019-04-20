@@ -1,3 +1,11 @@
+###
+#
+# BKSV 3922 Turntable Control with Trinamic Stepper retrofit
+#
+# Copyright Christopher Preston, CSIRO.
+#
+###
+
 import time
 from time import sleep
 from struct import *
